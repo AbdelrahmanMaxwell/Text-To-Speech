@@ -1,8 +1,7 @@
-# Text-To-Speech
 
 ![Text To Speech Logo]( https://i.imgur.com/R6ceShp.png)
 
-# : robot: Deceive 
+#:robot: Deceive 
 
 Text to Speech is the computer-generated simulation of human speech. It converts human language text into human-like speech audio. 
 
