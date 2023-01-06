@@ -17,4 +17,4 @@ TTS supports both male/female voices and u can switch between what you want.
 TTS supports saving audio in mp3 format, so you will be able to save audio on your disk
 
 
- ![Software interface]( https://i.imgur.com/v57gHUv.jpeg)
+ ![Software interface]( https://i.imgur.com/HwcgtlW.png)
